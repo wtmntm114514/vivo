@@ -18,7 +18,7 @@ $(call inherit-product, device/vivo/PD2196/device.mk)
 PRODUCT_DEVICE := PD2196
 PRODUCT_NAME := twrp_PD2196
 PRODUCT_BRAND := vivo
-PRODUCT_MODEL := V2196A
+PRODUCT_MODEL := vivo
 PRODUCT_MANUFACTURER := vivo
 
 PRODUCT_GMS_CLIENTID_BASE := android-vivo
