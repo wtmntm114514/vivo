@@ -109,3 +109,4 @@ SHRP_DEVICE_TYPE := A_Only
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
 SHRP_MAINTAINER := @wtmntm
 SHRP_DEVICE_CODE := PD2141
+INC_IN_REC_MAGISK := true
