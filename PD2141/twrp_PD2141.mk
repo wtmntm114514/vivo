@@ -15,9 +15,6 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 # Inherit from PD2141 device
 $(call inherit-product, device/vivo/PD2141/device.mk)
 
-# Full language
-$(SRC_TARGET_DIR)/product/languages_full.mk)
-
 PRODUCT_RELEASE_NAME := PD2141
 PRODUCT_DEVICE := PD2141
 PRODUCT_NAME := twrp_PD2141
