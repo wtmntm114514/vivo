@@ -107,3 +107,5 @@ TW_INCLUDE_REPACKTOOLS := true
 # SHRP
 SHRP_DEVICE_TYPE := A_Only
 SHRP_REC := /dev/block/bootdevice/by-name/recovery
+SHRP_MAINTAINER := @wtmntm
+SHRP_DEVICE_CODE := PD2141
