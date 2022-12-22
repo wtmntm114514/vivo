@@ -117,6 +117,3 @@ INC_IN_REC_MAGISK := true
 # Log
 TARGET_USES_LOGD := true
 TWRP_INCLUDE_LOGCAT := true
-
-# System as root
-BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
